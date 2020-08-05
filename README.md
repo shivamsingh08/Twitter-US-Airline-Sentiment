@@ -1,4 +1,4 @@
-# Twitter-US-Airline-Sentiment
+# Twitter-US-Airline-Sentiment-Analysis
 Breakdown of this notebook:
 
 1. Loading the dataset: Load the data and import the libraries.
